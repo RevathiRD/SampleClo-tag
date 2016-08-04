@@ -3,7 +3,9 @@ language: clojure
 # Version number
 lein:
   - lein2
- 
+env:
+  global:
+    - test=foo
 
 build:
 
