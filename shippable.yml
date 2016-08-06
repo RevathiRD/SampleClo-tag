@@ -6,7 +6,7 @@ lein:
 env:
   global:
     - test=foo
-
+    - far=bar
 build:
 
 
