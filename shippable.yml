@@ -7,6 +7,7 @@ lein:
 env:
   global:
     - test=bar
+    - f=t
 build:
 
 
